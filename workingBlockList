@@ -2,6 +2,7 @@
 tracking.epicgames.com
 metrics.ol.epicgames.com
 dev.epicgames.com
+api.epicgames.dev
 
 #Rockstar Game Launcher
 prod.telemetry.ros.rockstargames.com
