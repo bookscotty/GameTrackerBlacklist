@@ -9,4 +9,7 @@ etsource.epicgames.com
 datarouter.ol.epicgames.com
 
 #Rockstar Game Launcher
+datarouter.ol.epicgames.com 
+pipes-prod-glutton.public.aws.demonware.net
+prod.realtimevc.ros.rockstargames.com
 prod.telemetry.ros.rockstargames.com
